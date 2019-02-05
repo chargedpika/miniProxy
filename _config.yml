@@ -1,0 +1,8 @@
+title: miniProxy
+description: A simple PHP web proxy.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
